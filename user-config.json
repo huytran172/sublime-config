@@ -1,0 +1,29 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"draw_centered": true,
+	"font_face": "Roboto Mono",
+	"font_options":
+	[
+		"gray_antialias"
+	],
+	"font_size": 13,
+	"gutter": false,
+	"ignored_packages":
+	[
+	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_numbers": true,
+	"line_padding_bottom": 10,
+	"line_padding_top": 10,
+	"overlay_scroll_bars": "enabled",
+	"scroll_past_end": true,
+	"use_simple_full_screen": true,
+	"word_wrap": true,
+	"wrap_width": 80
+}
+
